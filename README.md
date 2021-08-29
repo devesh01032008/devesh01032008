@@ -1,21 +1,32 @@
-<h1 align="center">Hi 👋, I'm Devesh</h1>
-<h3 align="center">A young programmer from India.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh01032008" alt="devesh01032008" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/devesh01032008](https://github.com/devesh01032008)
-
-- 📫 How to reach me **deveshsharma1009@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://www.hackerrank.com/deveshsharma1009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devesh sharma" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devesh01032008&show_icons=true&locale=en&layout=compact" alt="devesh01032008" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devesh01032008&show_icons=true&locale=en" alt="devesh01032008" /></p>
-
+<div>
+  <h2 align="center">Hello, I'm Devesh Sharma.</h2>
+  <p>A young web designer and a computer programmer. I am 13 years old. I read in Class 9<sup>th</sup> in JNV Panipat. I have acquired knowledge of various programming languages such as Python, Java, C++, etc. I have made several website hosted on Github Page. You may visit them.</p>
+        <ol>
+          <li><a href="https://devesh01032008.github.io/iCart-The-Shopping-Website">iCart : A Shopping Website</a></li>
+          <li><a href="https://devesh01032008.github.io/iCart-The-Shopping-Website">iMedia : A Social Media Website</a></li>
+          <li><a href="https://devesh01032008.github.io/iCart-The-Shopping-Website">iBlog : A Blogging Website</a></li>
+        </ol>
+        <p>
+          <b>Note :</b> I have not used any backend in the website. So the websites are static and show the same content.</p></p>
+</div>
+<div>
+ <h2 align="center">Certification for Web Development and Programming</h2>
+      <p>I have completed several online course of webs designing and programming and have certificated for it.</p>
+      <div>
+        <p>1.) HTML</p>
+        <img src="images/certificates/html.jpg" alt="Html Certificate"/>
+        <p>2.) CSS</p>
+        <img src="images/certificates/css.jpg" alt="Css Certificate"/>
+        <p>3.) Javascript</p>
+        <img src="images/certificates/js.png" alt="Javascript Certificate"/>
+        <p>4.) Java</p>
+        <img src="images/certificates/java.png" alt="Java Certificate" />
+        <p>5.) C++</p>
+        <img src="images/certificates/cpp.png" alt="C++ Certificate" />
+        <p>6.) C</p>
+        <img src="images/certificates/c.jpg" alt="C Certificate" />
+        <p>7.) jQuery</p>
+        <img src="images/certificates/jQuery.jpg" alt="jQuery Certificate"/>
+      </div>
+</div>
+<a href="https://devesh01032008.github.io/devesh01032008">Hosted At Github Pages</a>

@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Besley:wght@900&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: var(--roboto);
+}
+
+:root {
+  --roboto: 'Roboto', sans-serif;
+  --boldest: 'Besley', serif;
+  --blackish: #42445A;
+}
+
+/*=== Utils Classes === */
+
+.default {
+  background: whitesmoke;
+  width: 100vw;
+  height: 100vh;
+  color: black;
+}
+
+.custom {
+  background: white;
+  color: black;
+}
+
+.circular__img{
+  border-radius: 50%;
+}
+
+.dark {
+  background: black;
+  color: white;
+}
+
+/*=== Header Of the Website === */
+
+#main__header {
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  width: 100vw;
+  top: 0px;
+}
+
+/*=== Menu Icon in Header === */
+.menu {
+  margin: 15px 15px;
+  display: inline-block;
+}
+
+/*=== Bars in Menu Icon in Header === */
+
+.menu div {
+  width: 25px;
+  height: 3px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+/*=== Close Icon in Header === */
+.close {
+  margin: 15px 15px;
+  display: inline-block;
+  position: absolute;
+  left: 40vw;
+  width: 40px;
+  height: 40px;
+}
+
+/*=== Bars in Close Icon in Header === */
+.close div {
+  width: 25px;
+  height: 3px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+/*=== 1st bar in close Icon in Header === */
+.close .bar1 {
+  position: absolute;
+  transform: rotate(45deg);
+  top: 10px;
+}
+
+.close .bar2 {
+  visibility: hidden;
+}
+
+/*=== 2st bar in close Icon in Header === */
+.close .bar3 {
+  position: absolute;
+  transform: rotate(135deg);
+  top: 10px;
+}
+
+/*=== Hover/Tap effect on Menu Icon === */
+.menu:hover,
+.close:hover {
+  border: 2px solid var(--blackish);
+  border-radius: 4px;
+}
+
+/* Hidden Container containing links left scrollable*/
+.links__container {
+  height: 100%;
+  width: 60vw;
+  position: fixed;
+  top: 60px;
+  left: -100%;
+  transition: all 1s ease;
+}
+
+.links__container ul {
+  list-style: none;
+}
+
+.links__container ul li a {
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  font-weight: 400;
+  color: black;
+  transition: all 1s;
+}
+
+
+.links__container ul li a i {
+  font-size: 30px;
+  margin: 3px;
+  position: relative;
+  top: 7px;
+  right: 5px;
+}
+
+.links__container ul li a:hover {
+  color: grey;
+}
+
+.upper__section {
+  transition: all 1s;
+}
+
+.upper__section:hover>.main__heading,
+.upper__section:hover .profesion {
+  color: var(--blackish);
+}
+
+.myPhoto {
+  border-radius: 50%;
+  width: 50vw;
+  display: block;
+  margin: 5rem auto 2rem auto;
+  transition: all 1s;
+}
+
+.myPhoto:hover {
+  transform: scale(1.1);
+}
+
+.main__heading {
+  font-family: var(--boldest);
+}
+
+.main__heading,
+.profesion {
+  text-align: center;
+  line-height: 2.5rem;
+  transition: all 1s;
+}
+
+.profesion {
+  font-family: var(--boldest);
+  font-weight: 100;
+}
+
+.down__link {
+  position: fixed;
+  bottom: 5vh;
+  left: 75vw;
+  border-radius: 50%;
+  z-index: 10000;
+}
+
+.down__link:hover>i {
+  color: grey;
+  background: white;
+}
+
+.down__link i {
+  font-size: 50px;
+  background: black;
+  color: white;
+  border-radius: 50%;
+  padding: 10px;
+  transition: all 1s;
+}
+
+
+.lower__section {
+  margin: 100% 30px 0% 30px;
+  z-index: -1;
+}
+
+.about__me__p {
+  font-weight: 500;
+}
+
+.myWebsites {
+  padding: 20px;
+}
+
+.myWebsites li a {
+  text-decoration: none;
+  color: black;
+  font-family: var(--boldest);
+  display: block;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.note {
+  margin: 5px;
+}
+
+.certificates {
+  margin: 100% 0px;
+}
+
+.certificates h2 {
+  font-family: var(--boldest);
+  text-align: center;
+  font-size: 22px;
+}
+
+.certificates__container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.certificate {
+  width: 100%;
+  margin: 10px;
+}
+
+.certificate__course {
+  font-family: var(--boldest);
+}
+
+#main__footer {
+  margin:100% 0px;
+  z-index: -1;
+  width: 100vw;
+  text-align: center;
+  font-family: var(--boldest);
+}
+
+.social__logo__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social__logo__container a {
+  padding: 10px;
+}
